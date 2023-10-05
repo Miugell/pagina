@@ -1,0 +1,48 @@
+body{
+    max-width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-image: url("https://static.vecteezy.com/ti/vetor-gratis/p1/11817702-fundo-de-codigo-de-programacao-vetor.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: center;
+    overflow: hidden;
+    text-align: center;
+}
+
+   .text-foto{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 2rem;
+    margin-top: 5rem;
+    font-size: 40px;
+    text-align: center;
+    background-color: rgba(0, 0.8, 0, 0.2)
+
+    }
+    
+
+.h2{
+    color: aqua;
+    display: flex;
+    gap: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 19px;
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+h3{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.pagina-inicial{
+    color: crimson;
+    text-align: center;
+    font-size: 30px;
+    padding: 15px;
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 15px;
+}
